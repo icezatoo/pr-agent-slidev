@@ -71,14 +71,14 @@ Some usecase  pull request
 
 <v-switch>
   <template #1>
-  <img  src="./detail-pr.png" alt="" />
+  <img  src="./public/detail-pr.png" alt="" />
   
    </template>
   <template #2>
-  <img  src="./change-pr.png" alt="" />
+  <img  src="./public/change-pr.png" alt="" />
   </template>
   <template #3>
-  <img  src="./change-pr.png" alt="" />
+  <img  src="./public/change-pr.png" alt="" />
 
   <img
   class="absolute -left-0 right-150 w-80 h-50"
