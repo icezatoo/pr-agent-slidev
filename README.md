@@ -41,57 +41,6 @@ yarn dev
 
 The presentation will be available at `http://localhost:3030`
 
-## 📝 Editing Content
-
-The slides are written in Markdown and located in the `slides.md` file. Each slide is separated by `---` and can include:
-
-- Regular Markdown syntax
-- Vue components
-- Code blocks with syntax highlighting
-- LaTeX equations
-- Diagrams and charts
-
-Example:
-
-```markdown
-# PR-Agent Overview
-
----
-
-## Key Features
-
-- Automated code review
-- Security scanning
-- Performance analysis
-- Best practices enforcement
-
----
-
-## Code Example
-
-```python
-def analyze_pr(pr_content):
-    # PR-Agent analysis logic
-    return recommendations
-```
-
-## 🛠️ Customization
-
-### Theme
-
-The presentation uses a custom theme optimized for developer documentation. You can modify the theme in:
-
-- `style.css` - Custom CSS styles
-- `config.js` - Slidev configuration
-
-### Components
-
-Custom Vue components are located in the `components/` directory and can be used directly in slides:
-
-```markdown
-<PRMetrics :data="metricsData" />
-```
-
 ## 📦 Building for Production
 
 Generate static files:
