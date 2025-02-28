@@ -97,7 +97,12 @@ Some usecase  pull request
 
 # What is PR-Agent?
 
-PR-Agent is an AI-powered tool that streamlines pull request reviews by providing:
+<br>
+
+PR-Agent is an open-source tool to help efficiently review and handle pull requests. Qodo Merge is a hosted version of PR-Agent,
+designed for companies and teams that require additional features and capabilities
+
+Providing
 
 - 📝 **Automated** - Automated feedback and suggestions
 - 🎨 **Description** - PR description generation
