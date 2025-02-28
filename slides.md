@@ -19,9 +19,7 @@ transition: slide-left
 mdc: true
 ---
 
-# PR-Agent Guide
-
-AI-Powered Pull Request Review Tool
+# AI Code Review, Smarter , Faster , Better
 
 <div class="abs-br m-6 text-xl">
   <a href="https://github.com/qodo-ai/pr-agent" target="_blank" class="slidev-icon-btn">
